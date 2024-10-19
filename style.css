@@ -52,7 +52,7 @@
 #semester-subjects{
     background-color: rgb(0, 0, 0);
     color: white;
-    height: 200px;
+    height: 2o0px;
     width: 250px;
     padding-left: 1rem;
     text-align: left;
@@ -60,6 +60,7 @@
     font-weight: 400;
     line-height: 1.4rem;
 }
+
 
 /* Main content */
 
@@ -159,5 +160,11 @@ footer{
 @media (max-width: 994px){
     #heading{
         font-size: 1.5rem;
+    }
+    #bee{
+        font-size: 0.8rem;
+    }
+    #end{
+        font-size: 0.6rem;
     }
 }
