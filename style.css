@@ -207,6 +207,9 @@ footer{
     #container3{
         height: 60px;
     }
+    #semester-subjects{
+        font-size: 0.8rem;
+    }
 }
 
 @keyframes rotate {
